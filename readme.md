@@ -7,7 +7,10 @@
   -Bootstrap4
   -HTML5
   -python3
-  
+# Link to github repo
+-Here is the link to the remote github repository 
+ -(https://github.com/denis-ligare254/Python-blog.git)
+
 
 
 
