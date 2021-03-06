@@ -2,6 +2,13 @@
 ## By Ligare Dennis
 -Blog application is a simple web application that allows the user to create a profile or create an account,submit their quotes and finally log out.Their accounts can also be logged out by the owners of the account.
 
+# Technology used
+-The following are technologies that i have used in the to come up with the application
+  -Bootstrap4
+  -HTML5
+  -python3
+  
+
 
 
 
