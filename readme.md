@@ -1,5 +1,6 @@
 # comment web application
 ## By Ligare Dennis
+-Blog application is a simple web application that allows the user to create a profile or create an account,submit their quotes and finally log out.Their accounts can also be logged out by the owners of the account.
 
 
 
